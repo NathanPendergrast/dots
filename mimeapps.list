@@ -1,0 +1,7 @@
+[Added Associations]
+application/zip=ark.desktop;
+text/markdown=nvim-2.desktop;
+
+[Default Applications]
+application/zip=ark.desktop;
+text/markdown=nvim-2.desktop;

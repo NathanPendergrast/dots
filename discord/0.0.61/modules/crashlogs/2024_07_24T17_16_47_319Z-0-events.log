@@ -1,0 +1,67 @@
+2024-07-24T17:16:47.324Z 0: 
+
+----------------------------------------------
+2024-07-24T17:16:47.329Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/sauce/.config/discord/0.0.61/modules
+2024-07-24T17:16:47.331Z 2: ✅ webContents.created web1 ""
+2024-07-24T17:16:47.332Z 3: ✅ window.created win1 "discord"
+2024-07-24T17:16:47.507Z 4: ✅ webContents.did-finish-load web1
+2024-07-24T17:16:54.884Z 5: ✅ webContents.created web2 ""
+2024-07-24T17:16:54.895Z 6: ✅ window.created win2 "Discord"
+2024-07-24T17:16:56.221Z 7: ✅ webContents.did-finish-load web2
+2024-07-24T17:16:56.318Z 8: window.close win1
+2024-07-24T17:16:56.352Z 9: webContents.destroyed web1
+2024-07-24T17:16:56.354Z 10: window.closed win1
+2024-07-26T00:21:42.353Z 0: 
+
+----------------------------------------------
+2024-07-26T00:21:42.364Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/sauce/.config/discord/0.0.61/modules
+2024-07-26T00:21:42.366Z 2: ✅ webContents.created web1 ""
+2024-07-26T00:21:42.367Z 3: ✅ window.created win1 "discord"
+2024-07-26T00:21:42.575Z 4: ✅ webContents.did-finish-load web1
+2024-07-26T00:21:42.853Z 5: ✅ webContents.created web2 ""
+2024-07-26T00:21:42.858Z 6: ✅ window.created win2 "Discord"
+2024-07-26T00:21:47.971Z 7: ✅ webContents.did-finish-load web2
+2024-07-26T00:21:48.068Z 8: window.close win1
+2024-07-26T00:21:48.159Z 9: webContents.destroyed web1
+2024-07-26T00:21:48.161Z 10: window.closed win1
+2024-07-26T00:36:25.746Z 0: 
+
+----------------------------------------------
+2024-07-26T00:36:25.755Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/sauce/.config/discord/0.0.61/modules
+2024-07-26T00:36:25.758Z 2: ✅ webContents.created web1 ""
+2024-07-26T00:36:25.759Z 3: ✅ window.created win1 "discord"
+2024-07-26T00:36:25.944Z 4: ✅ webContents.did-finish-load web1
+2024-07-26T00:36:26.251Z 5: ✅ webContents.created web2 ""
+2024-07-26T00:36:26.256Z 6: ✅ window.created win2 "Discord"
+2024-07-26T00:36:29.277Z 7: ✅ webContents.did-finish-load web2
+2024-07-26T00:36:29.371Z 8: window.close win1
+2024-07-26T00:36:29.407Z 9: webContents.destroyed web1
+2024-07-26T00:36:29.410Z 10: window.closed win1
+2024-07-26T01:19:58.119Z 11: before-quit
+2024-07-27T21:58:30.871Z 0: 
+
+----------------------------------------------
+2024-07-27T21:58:30.879Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/sauce/.config/discord/0.0.61/modules
+2024-07-27T21:58:30.882Z 2: ✅ webContents.created web1 ""
+2024-07-27T21:58:30.882Z 3: ✅ window.created win1 "discord"
+2024-07-27T21:58:31.064Z 4: ✅ webContents.did-finish-load web1
+2024-07-27T21:58:31.330Z 5: ✅ webContents.created web2 ""
+2024-07-27T21:58:31.333Z 6: ✅ window.created win2 "Discord"
+2024-07-27T21:58:33.334Z 7: ✅ webContents.did-finish-load web2
+2024-07-27T21:58:33.433Z 8: window.close win1
+2024-07-27T21:58:33.457Z 9: webContents.destroyed web1
+2024-07-27T21:58:33.458Z 10: window.closed win1
+2024-07-27T23:07:37.107Z 0: 
+
+----------------------------------------------
+2024-07-27T23:07:37.116Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/sauce/.config/discord/0.0.61/modules
+2024-07-27T23:07:37.118Z 2: ✅ webContents.created web1 ""
+2024-07-27T23:07:37.119Z 3: ✅ window.created win1 "discord"
+2024-07-27T23:07:37.315Z 4: ✅ webContents.did-finish-load web1
+2024-07-27T23:07:37.624Z 5: ✅ webContents.created web2 ""
+2024-07-27T23:07:37.628Z 6: ✅ window.created win2 "Discord"
+2024-07-27T23:07:39.859Z 7: ✅ webContents.did-finish-load web2
+2024-07-27T23:07:39.956Z 8: window.close win1
+2024-07-27T23:07:39.981Z 9: webContents.destroyed web1
+2024-07-27T23:07:39.983Z 10: window.closed win1
+2024-07-28T03:38:10.289Z 11: before-quit
